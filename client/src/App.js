@@ -11,7 +11,7 @@ import UserCampaigns from "./Pages/UserCampigns";
 const App = () => {
   return (
     <>
-      <div className=" p-4 bg-[#13131a] flex flex-row min-h-screen ">
+      <div className=" p-4 bg-[#13131a] flex h-screen">
         <div className="mr-10 ">
           <Sidebar />
         </div>
